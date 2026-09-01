@@ -1,29 +1,29 @@
 <div align="center">
-  <!-- Header Banner with Typing SVG -->
+  <!-- Banner de Cabeçalho com SVG de Digitación -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Victor+Gabriel+de+Melo+Ferro;Computer+Science+Student;Software+Development+%26+C+Language" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Victor+Gabriel+de+Melo+Ferro;Estudiante+de+Ciencias+de+la+Computacion;Desarrollo+de+Software+%26+Lenguaje+C" alt="SVG de Digitación" />
   </a>
 
   <br/><br/>
 
-  <!-- Header Badges -->
+  <!-- Badges de Cabecera -->
   <p align="center">
     <a href="https://linkedin.com/in/victorferro">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge LinkedIn" />
     </a>
     <a href="mailto:victorgabrielmferro@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge Gmail" />
     </a>
     <a href="https://github.com/victorgabrielmferro">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Badge GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Montes%20Claros%2C%20MG%2C%20Brazil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+    <img src="https://img.shields.io/badge/Ubicacion-Montes%20Claros%2C%20MG%2C%20Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Badge Ubicación" />
   </p>
 
-  <!-- Summary -->
+  <!-- Resumen -->
   <p align="center">
-    👋 Hi, I'm <strong>Victor Gabriel de Melo Ferro</strong>, a Computer Science student at <strong>IFNMG</strong>.<br/>
-    Passionate about software engineering, programming logic, data structures, and low-level development using <strong>C</strong>.
+    👋 Hola, soy <strong>Victor Gabriel de Melo Ferro</strong>, estudiante de Ciencias de la Computación en <strong>IFNMG</strong>.<br/>
+    Apasionado por la ingeniería de software, la lógica de programación, las estructuras de datos y el desarrollo de bajo nivel usando <strong>C</strong>.
   </p>
 
 </div>
@@ -32,98 +32,98 @@
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Habilidades Técnicas
 
 <div align="center">
 
-  <!-- Skill Icons -->
+  <!-- Iconos de Habilidades -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,git,github&perline=6" alt="Technical Skills" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,git,github&perline=6" alt="Habilidades Técnicas" />
   </a>
 
 </div>
 
 <br/>
 
-* **Languages:** C, HTML5, CSS3
-* **Programming Logic & Algorithms:** Conditional statements, loops (`for`, `while`, `do-while`), vectors, matrices, structs, functions, data manipulation, and input validation
-* **Tools & Version Control:** VS Code, Git, GitHub
-* **Mathematics & Foundations:** Digital Systems (base conversions), Calculus, Linear Algebra, and Analytic Geometry
-* **Databases:** Database development fundamentals (in progress)
+* **Lenguajes:** C, HTML5, CSS3
+* **Lógica de Programación y Algoritmos:** Sentencias condicionales, bucles (`for`, `while`, `do-while`), vectores, matrices, estructuras, funciones, manipulación de datos y validación de entrada
+* **Herramientas y Control de Versiones:** VS Code, Git, GitHub
+* **Matemáticas y Fundamentos:** Sistemas Digitales (conversiones de base), Cálculo, Álgebra Lineal y Geometría Analítica
+* **Bases de Datos:** Fundamentos de desarrollo de bases de datos (en proceso)
 
 <br/>
 
 ---
 
-### ◈ Featured Projects
+### ◈ Proyectos Destacados
 
 <details open>
-  <summary>💼 <strong>Employee Management System</strong> — <em>CLI Software in C</em></summary>
+  <summary>💼 <strong>Sistema de Gestión de Empleados</strong> — <em>Software CLI en C</em></summary>
   <br>
-  A command-line interface application developed in C for managing employee records using structs and parallel arrays.
+  Una aplicación de interfaz de línea de comandos desarrollada en C para gestionar registros de empleados usando estructuras y arreglos paralelos.
   <br><br>
-  <strong>Key Features:</strong>
+  <strong>Características Principales:</strong>
   <ul>
-    <li>Employee registration and record listing.</li>
-    <li>Search function by employee name.</li>
-    <li>Highest salary and overall salary average calculation.</li>
-    <li>Interactive menu implemented with `switch` and `do-while` control flow.</li>
+    <li>Registro de empleados y listado de registros.</li>
+    <li>Función de búsqueda por nombre de empleado.</li>
+    <li>Cálculo del salario más alto y del salario promedio general.</li>
+    <li>Menú interactivo implementado con `switch` y control de flujo `do-while`.</li>
   </ul>
-  <strong>Technologies:</strong> C
+  <strong>Tecnologías:</strong> C
 </details>
 
 <br/>
 
 <details>
-  <summary>🎮 <strong>Secret Number Guessing Game</strong> — <em>Console Game in C</em></summary>
+  <summary>🎮 <strong>Juego de Adivinanza del Número Secreto</strong> — <em>Juego de Consola en C</em></summary>
   <br>
-  An interactive console game where the user attempts to guess a randomly generated secret number within a limited amount of tries.
+  Un juego interactivo de consola donde el usuario intenta adivinar un número secreto generado aleatoriamente dentro de una cantidad limitada de intentos.
   <br><br>
-  <strong>Key Features:</strong>
+  <strong>Características Principales:</strong>
   <ul>
-    <li>Pseudo-random number generation using `rand` and `srand` functions.</li>
-    <li>Three difficulty levels (Easy, Medium, Hard) with variable attempt limits.</li>
-    <li>Dynamic scoring system that decreases based on distance from the secret number.</li>
-    <li>Program execution control using `continue` and `break` statements.</li>
+    <li>Generación de números pseudoaleatorios usando las funciones `rand` y `srand`.</li>
+    <li>Tres niveles de dificultad (Fácil, Medio, Difícil) con límites de intentos variables.</li>
+    <li>Sistema de puntuación dinámica que disminuye según la distancia al número secreto.</li>
+    <li>Control de la ejecución del programa usando las sentencias `continue` y `break`.</li>
   </ul>
-  <strong>Technologies:</strong> C
+  <strong>Tecnologías:</strong> C
 </details>
 
 <br/>
 
 ---
 
-### 🎓 Education
+### 🎓 Educación
 
-* **B.S. in Computer Science** — *IFNMG (Instituto Federal do Norte de Minas Gerais)*
-  * **Status:** 2nd Semester (Expected Graduation: 2026 – 2031)
-* **High School Diploma** — *Escola Estadual Eloy Pereira* (2023 – 2025)
+* **Licenciatura en Ciencias de la Computación** — *IFNMG (Instituto Federal do Norte de Minas Gerais)*
+  * **Estado:** 2.º Semestre (Graduación Prevista: 2026 – 2031)
+* **Título de Bachillerato** — *Escuela Estatal Eloy Pereira* (2023 – 2025)
 
 <br/>
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 Analítica y Actividad en GitHub
 
 <div align="center">
 
-  <!-- Stats & Top Languages -->
+  <!-- Estadísticas y Lenguajes Principales -->
   <p align="center">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Estadísticas de GitHub" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Lenguajes Principales" />
   </p>
 
-  <!-- Streak Stats -->
+  <!-- Estadísticas de Racha -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=victorgabrielmferro&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=victorgabrielmferro&theme=dark&hide_border=true" alt="Estadísticas de Racha en GitHub" />
   </p>
 
-  <!-- Contribution Snake Animation -->
+  <!-- Animación de la Serpiente de Contribuciones -->
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake.svg" />
-      <img width="850" src="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+      <img width="850" src="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" alt="Animación de la Serpiente de Contribuciones de GitHub" />
     </picture>
   </p>
 
@@ -133,17 +133,17 @@
 
 ---
 
-### 📬 Contact Information
+### 📬 Información de Contacto
 
-| Channel | Information |
+| Canal | Información |
 | :--- | :--- |
 | 💼 **LinkedIn** | [linkedin.com/in/victorferro](https://linkedin.com/in/victorferro) |
-| 📧 **Email** | [victorgabrielmferro@gmail.com](mailto:victorgabrielmferro@gmail.com) |
+| 📧 **Correo** | [victorgabrielmferro@gmail.com](mailto:victorgabrielmferro@gmail.com) |
 | 🐙 **GitHub** | [github.com/victorgabrielmferro](https://github.com/victorgabrielmferro) |
-| 📍 **Location** | Montes Claros, MG, Brazil |
+| 📍 **Ubicación** | Montes Claros, MG, Brasil |
 
 <br/>
 
 <div align="center">
-  <sub>Developed for Victor Gabriel de Melo Ferro</sub>
+  <sub>Desarrollado para Victor Gabriel de Melo Ferro</sub>
 </div>
