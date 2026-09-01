@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Banner de Cabeçalho com SVG de Digitación -->
+  <!-- Banner de Cabeçalho com SVG de Digitação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Victor+Gabriel+de+Melo+Ferro;Estudiante+de+Ciencias+de+la+Computacion;Desarrollo+de+Software+%26+Lenguaje+C" alt="SVG de Digitación" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Victor+Gabriel+de+Melo+Ferro;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+de+Software+%26+Linguagem+C" alt="SVG de Digitação" />
   </a>
 
   <br/><br/>
 
-  <!-- Badges de Cabecera -->
+  <!-- Badges de Cabeçalho -->
   <p align="center">
     <a href="https://linkedin.com/in/victorferro">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge LinkedIn" />
@@ -17,13 +17,13 @@
     <a href="https://github.com/victorgabrielmferro">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Badge GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Ubicacion-Montes%20Claros%2C%20MG%2C%20Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Badge Ubicación" />
+    <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Montes%20Claros%2C%20MG%2C%20Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Badge Localização" />
   </p>
 
-  <!-- Resumen -->
+  <!-- Resumo -->
   <p align="center">
-    👋 Hola, soy <strong>Victor Gabriel de Melo Ferro</strong>, estudiante de Ciencias de la Computación en <strong>IFNMG</strong>.<br/>
-    Apasionado por la ingeniería de software, la lógica de programación, las estructuras de datos y el desarrollo de bajo nivel usando <strong>C</strong>.
+    👋 Olá, sou <strong>Victor Gabriel de Melo Ferro</strong>, estudante de Ciência da Computação na <strong>IFNMG</strong>.<br/>
+    Apaixonado por engenharia de software, lógica de programação, estruturas de dados e desenvolvimento de baixo nível usando <strong>C</strong>.
   </p>
 
 </div>
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <!-- Iconos de Habilidades -->
+  <!-- Ícones de Habilidades -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css,vscode,git,github&perline=6" alt="Habilidades Técnicas" />
   </a>
@@ -45,85 +45,85 @@
 
 <br/>
 
-* **Lenguajes:** C, HTML5, CSS3
-* **Lógica de Programación y Algoritmos:** Sentencias condicionales, bucles (`for`, `while`, `do-while`), vectores, matrices, estructuras, funciones, manipulación de datos y validación de entrada
-* **Herramientas y Control de Versiones:** VS Code, Git, GitHub
-* **Matemáticas y Fundamentos:** Sistemas Digitales (conversiones de base), Cálculo, Álgebra Lineal y Geometría Analítica
-* **Bases de Datos:** Fundamentos de desarrollo de bases de datos (en proceso)
+* **Linguagens:** C, HTML5, CSS3
+* **Lógica de Programação e Algoritmos:** Comandos condicionais, laços (`for`, `while`, `do-while`), vetores, matrizes, structs, funções, manipulação de dados e validação de entrada
+* **Ferramentas e Controle de Versão:** VS Code, Git, GitHub
+* **Matemática e Fundamentos:** Sistemas Digitais (conversões de base), Cálculo, Álgebra Linear e Geometria Analítica
+* **Bancos de Dados:** Fundamentos de desenvolvimento de bancos de dados (em andamento)
 
 <br/>
 
 ---
 
-### ◈ Proyectos Destacados
+### ◈ Projetos em Destaque
 
 <details open>
-  <summary>💼 <strong>Sistema de Gestión de Empleados</strong> — <em>Software CLI en C</em></summary>
+  <summary>💼 <strong>Sistema de Gestão de Funcionários</strong> — <em>Software CLI em C</em></summary>
   <br>
-  Una aplicación de interfaz de línea de comandos desarrollada en C para gestionar registros de empleados usando estructuras y arreglos paralelos.
+  Um aplicativo de interface de linha de comando desenvolvido em C para gerenciar registros de funcionários usando structs e arrays paralelos.
   <br><br>
-  <strong>Características Principales:</strong>
+  <strong>Principais Funcionalidades:</strong>
   <ul>
-    <li>Registro de empleados y listado de registros.</li>
-    <li>Función de búsqueda por nombre de empleado.</li>
-    <li>Cálculo del salario más alto y del salario promedio general.</li>
-    <li>Menú interactivo implementado con `switch` y control de flujo `do-while`.</li>
+    <li>Cadastro de funcionários e listagem de registros.</li>
+    <li>Função de busca pelo nome do funcionário.</li>
+    <li>Cálculo do maior salário e da média salarial geral.</li>
+    <li>Menu interativo implementado com `switch` e fluxo de controle `do-while`.</li>
   </ul>
-  <strong>Tecnologías:</strong> C
+  <strong>Tecnologias:</strong> C
 </details>
 
 <br/>
 
 <details>
-  <summary>🎮 <strong>Juego de Adivinanza del Número Secreto</strong> — <em>Juego de Consola en C</em></summary>
+  <summary>🎮 <strong>Jogo de Adivinhação do Número Secreto</strong> — <em>Jogo de Console em C</em></summary>
   <br>
-  Un juego interactivo de consola donde el usuario intenta adivinar un número secreto generado aleatoriamente dentro de una cantidad limitada de intentos.
+  Um jogo interativo de console onde o usuário tenta adivinhar um número secreto gerado aleatoriamente dentro de uma quantidade limitada de tentativas.
   <br><br>
-  <strong>Características Principales:</strong>
+  <strong>Principais Funcionalidades:</strong>
   <ul>
-    <li>Generación de números pseudoaleatorios usando las funciones `rand` y `srand`.</li>
-    <li>Tres niveles de dificultad (Fácil, Medio, Difícil) con límites de intentos variables.</li>
-    <li>Sistema de puntuación dinámica que disminuye según la distancia al número secreto.</li>
-    <li>Control de la ejecución del programa usando las sentencias `continue` y `break`.</li>
+    <li>Geração de números pseudoaleatórios usando as funções `rand` e `srand`.</li>
+    <li>Três níveis de dificuldade (Fácil, Médio, Difícil) com limites variáveis de tentativas.</li>
+    <li>Sistema de pontuação dinâmica que diminui conforme a distância do número secreto.</li>
+    <li>Controle da execução do programa usando os comandos `continue` e `break`.</li>
   </ul>
-  <strong>Tecnologías:</strong> C
+  <strong>Tecnologias:</strong> C
 </details>
 
 <br/>
 
 ---
 
-### 🎓 Educación
+### 🎓 Formação
 
-* **Licenciatura en Ciencias de la Computación** — *IFNMG (Instituto Federal do Norte de Minas Gerais)*
-  * **Estado:** 2.º Semestre (Graduación Prevista: 2026 – 2031)
-* **Título de Bachillerato** — *Escuela Estatal Eloy Pereira* (2023 – 2025)
+* **Bacharelado em Ciência da Computação** — *IFNMG (Instituto Federal do Norte de Minas Gerais)*
+  * **Status:** 2.º Período (Previsão de Conclusão: 2026 – 2031)
+* **Ensino Médio** — *Escola Estadual Eloy Pereira* (2023 – 2025)
 
 <br/>
 
 ---
 
-### 📊 Analítica y Actividad en GitHub
+### 📊 Análise e Atividade no GitHub
 
 <div align="center">
 
-  <!-- Estadísticas y Lenguajes Principales -->
+  <!-- Estatísticas e Linguagens Principais -->
   <p align="center">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Estadísticas de GitHub" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Lenguajes Principales" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Linguagens Principais" />
   </p>
 
-  <!-- Estadísticas de Racha -->
+  <!-- Estatísticas de Sequência -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=victorgabrielmferro&theme=dark&hide_border=true" alt="Estadísticas de Racha en GitHub" />
+    <img src="https://streak-stats.demolab.com?user=victorgabrielmferro&theme=dark&hide_border=true" alt="Estatísticas de Sequência no GitHub" />
   </p>
 
-  <!-- Animación de la Serpiente de Contribuciones -->
+  <!-- Animação da Cobra de Contribuições -->
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake.svg" />
-      <img width="850" src="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" alt="Animación de la Serpiente de Contribuciones de GitHub" />
+      <img width="850" src="https://raw.githubusercontent.com/victorgabrielmferro/victorgabrielmferro/output/github-contribution-grid-snake-dark.svg" alt="Animação da Cobra de Contribuições do GitHub" />
     </picture>
   </p>
 
@@ -133,17 +133,17 @@
 
 ---
 
-### 📬 Información de Contacto
+### 📬 Informações de Contato
 
-| Canal | Información |
+| Canal | Informação |
 | :--- | :--- |
 | 💼 **LinkedIn** | [linkedin.com/in/victorferro](https://linkedin.com/in/victorferro) |
-| 📧 **Correo** | [victorgabrielmferro@gmail.com](mailto:victorgabrielmferro@gmail.com) |
+| 📧 **E-mail** | [victorgabrielmferro@gmail.com](mailto:victorgabrielmferro@gmail.com) |
 | 🐙 **GitHub** | [github.com/victorgabrielmferro](https://github.com/victorgabrielmferro) |
-| 📍 **Ubicación** | Montes Claros, MG, Brasil |
+| 📍 **Localização** | Montes Claros, MG, Brasil |
 
 <br/>
 
 <div align="center">
-  <sub>Desarrollado para Victor Gabriel de Melo Ferro</sub>
+  <sub>Desenvolvido para Victor Gabriel de Melo Ferro</sub>
 </div>
