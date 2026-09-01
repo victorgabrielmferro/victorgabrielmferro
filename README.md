@@ -109,13 +109,13 @@
 
   <!-- Stats & Top Languages -->
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=victorgabrielmferro&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorgabrielmferro&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
   </p>
 
-  <!-- Activity Graph -->
+  <!-- Streak Stats -->
   <p align="center">
-    <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=victorgabrielmferro&bg_color=0d1117&color=8A2BE2&line=4B0082&point=8A2BE2&area=true&area_color=4B0082&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://streak-stats.demolab.com?user=victorgabrielmferro&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </p>
 
   <!-- Contribution Snake Animation -->
