@@ -22,7 +22,7 @@
 
   <!-- Resumo -->
   <p align="center">
-    👋 Olá, sou <strong>Victor Gabriel de Melo Ferro</strong>, estudante de Ciência da Computação na <strong>IFNMG</strong>.<br/>
+    Olá, sou <strong>Victor Gabriel de Melo Ferro</strong>, estudante de Ciência da Computação no <strong>IFNMG</strong>.<br/>
     Apaixonado por engenharia de software, lógica de programação, estruturas de dados e desenvolvimento de baixo nível usando <strong>C</strong>.
   </p>
 
